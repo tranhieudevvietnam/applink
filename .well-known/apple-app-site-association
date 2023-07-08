@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "MA8HRS852Y.com.gnha.flutterGnhaApp",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
